@@ -8,6 +8,7 @@ In order to order the food items, the user has to create an account and sign in 
 The food comes with the cost as well. This project makes a convenient way for customers to buy/purchase food online, without having to go to the restaurant.
 
 About system
+
 This Online Food Order System is in PHP, JavaScript, and CSS.
 Talking about the features of this system, it contains the admin(manager) section and the user (customer) section. 
 All the editings, updating, managing order details, food items, and restaurants are from the admin section while customers can only go through the site and give orders if want. 
